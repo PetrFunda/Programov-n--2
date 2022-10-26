@@ -39,6 +39,5 @@ li:hover{
 }
 
 .title{
-    margin-left: auto;
-    transform: translate(35%);
+    margin: auto;
 }
